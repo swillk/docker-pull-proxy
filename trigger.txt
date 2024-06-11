@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+appwrite/appwrite:1.5.7 registry.cn-hangzhou.aliyuncs.com/andy_hub/appwrite:1.5.7
